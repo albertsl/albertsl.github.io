@@ -21,3 +21,13 @@ body {
 .pagination {
   margin-bottom: 30px;
 }
+
+.sm-icon {
+  height: 32px;
+  margin-bottom: 1.5rem;
+}
+
+.profile-pic {
+  max-width:100%;
+  max-height:100%;
+}
